@@ -1,0 +1,120 @@
+1;Julio Cesar;10;1
+2;Maicon;2;1
+3;Lucio;0;1
+4;Juan;0;1
+10;Thiago Silva;1;1
+231;Rivaldo;321;1
+232;pele;432;1
+253;Ivan Rakitic;2;2
+260;Luka Modrik;1;2
+270;Sammir;5;2
+271;Eduardo;9;2
+8;Aguilar;1;3
+9;Vazquez;3;3
+12;peralta;5;3
+50;Charles Itandje;0;4
+52;Henri Bedimo;1;4
+55;Samuel Eto'o;9;4
+273;Ivica Olic;0
+34;Iker Casillas;0;5
+36;Pique;1;5
+41;Iniesta;2;5
+42;Xavi;3;5
+48;Fernando Torres;5;5
+49;David Villa;10;5
+90;Daley Blind;1;6
+91;Leroy Fer;1;6
+95;Arjen Robben;10;6
+60;Claudio Bravo;0;7
+69;Suazo;4;7
+70;Matias Fernandez;2;7
+78;Medel;1;7
+81;Alexis sanchez;5;7
+120;Ivan Franjik;0;8
+122;Tommy Oar;1;8
+127;Ben Halloran;5;8
+151;David Ospina;1;9
+153;Cristian Zapata;2;9
+155;Pablo Armero;6;9
+160;Jose Holebas;1;10
+164;Loukas Vyntras;3;10
+168;Giorgios Samaras;2;10
+190;Kolo Toure;1;11
+192;Sol Bamba;0;11
+195;Giovanni Sio;4;11
+200;Eji Kawashima;0;12
+202;Shinji Kagawa;1;12
+207;Yasuhito Endo;7;12
+101;Muslera;0;13
+102;Lugano;3;13
+105;Cavani;1;13
+106;Luis Suarez;5;13
+108;Forlan;2;13
+112;Godin;4;13
+300;Keylor Navas;0;14
+301;Roy Miller;2;14
+307;Joel Campbell;5;14
+312;Joe Hart;1;15
+314;Lampard;4;15
+318;Rooney;9;15
+502;Gianluigi Buffon;1;16
+14;rodri Motta;0;16
+15;Antonio Cassano;3;16
+16;Daniele De Rossi;1;16
+20;Lorenzo Insigne;5;16
+25;Adnrea Pirlo;7;16
+322;Benaglio;0;17
+324;Shaqiri;5;17
+329;Gelson Fernandez;1;17
+130;Banguera;0;18
+131;Guagua;1;18
+135;Montero;4;18
+141;Alexander Dominguez;7;18
+333;Mangala;1;19
+335;Benzema;9;19
+338;Remy;2;19
+341;Peralta;1;20
+344;Jorge Claros;2;20
+349;Rony Martinez;4;20
+215;Mascherano;1;21
+220;Messi;9;21
+221;Higuain;5;21
+222;Aguero;3;21
+230;Di Maria;2;21
+61;Fuentes;1;21
+353;Toni Sunjic;1;22
+355;Emir Spahic;0;22
+357;Edin Dzeko;6;22
+364;Daniel Davari;0;23
+366;Steven Beitashour;1;23
+367;Javad Nekounam;0;23
+371;Vincent Enyeama;5;24
+373;Efe Ambrose;0;24
+377;Emmanuel Emenike;1;24
+170;Manuel Neuer;0;25
+171;Matthias Ginter;1;25
+177;Mesut Oezil;4;25
+179;Miroslav Klose;10;25
+185;Thomas Mueller;4;25
+186;Jerome Boateng;1;25
+383;Pepe;1;26
+385;Cristiano Ronaldo;4;26
+388;Nani;6;26
+396;Stephen Adams;0;27
+397;Kwadwo Asamoah;1;27
+398;Asamoah Gyan;5;27
+401;Matt Besler;1;28
+403;Michael Bradley;4;28
+404;Jermaine Jones;3;28
+412;Thibaut Courtois;0;29
+415;Vincent Kompany;2;29
+419;Divock Origi;3;29
+425;Medjani;0;30
+426;Taider;1;30
+429;Soudani;4;30
+435;Igor Akinfeev;0;31
+437;Pavel Mogilevets;1;31
+439;Alexander Kokorin;3;31
+447;Lee Yong;1;32
+448;Han Kook-Young;2;32
+455;Park Jong-Woo;5;32

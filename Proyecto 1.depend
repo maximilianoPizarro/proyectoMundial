@@ -1,0 +1,1460 @@
+# depslib dependency file v1.0
+1401463512 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1307487078 
+
+1401463490 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\equipo.h
+	"Lista.h"
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\lista.h
+
+1400595830 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\grupo.cpp
+
+1401385105 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401388987 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\jugador.h
+	"Lista.h"
+
+1307487078 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\lista.cpp
+	"Lista.h"
+
+1401459906 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+	"AdminnistradorArchivos.h"
+	"Equipo.h"
+	"Jugador.h"
+
+1401459906 "
+
+1401054980 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\funciones.h
+
+1400596496 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\partido.cpp
+
+1401214098 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\version nueva\proyectocuatrimestral\adminnistradorarchivos.h
+
+1401463514 source:/media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1401463492 /media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Equipo.h
+	"Lista.h"
+
+1307487078 /media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Lista.h
+
+1400595830 source:/media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Grupo.cpp
+
+1401385106 source:/media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401388988 /media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Jugador.h
+	"Lista.h"
+
+1307487078 source:/media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Lista.cpp
+	"Lista.h"
+
+1401477018 source:/media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+	"AdminnistradorArchivos.h"
+	"Equipo.h"
+	"Jugador.h"
+
+1401463614 /media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/AdminnistradorArchivos.h
+
+1400596496 source:/media/ezequiel/EZEQUIEL/Algoritmos y estructura de datos/version nueva/ProyectoCuatrimestral/Partido.cpp
+
+1402427720 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-3-6\evento.cpp
+	"Evento.h"
+
+1402410248 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-3-6\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1307487078 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-3-6\lista.h
+
+1401556170 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-3-6\jugador.h
+	"Lista.h"
+	<iostream>
+	<string>
+
+1401555858 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-3-6\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1401555990 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-3-6\admcomparaciones.h
+	"Lista.h"
+
+1402494004 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\admarchivos.cpp
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<cstdlib>
+	<sstream>
+	<stdio.h>
+	<iostream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1402493066 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1402410248 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\lista.h
+
+1402062044 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1401718796 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1402419256 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\admcomparaciones.h
+	"Lista.h"
+
+1401428186 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1401849946 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1402419256 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402412828 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\cola.h
+
+1401718310 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\cola.cpp
+	"Cola.h"
+
+1402411436 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402412402 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1402412402 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402412402 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1402494720 source:g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<string>
+	<fstream>
+	<sstream>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1401719636 g:\algoritmos y estructura de datos\version nueva\proyectocuatrimestral-10-06\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\lista.h
+
+1403394653 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403376152 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1403404285 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final21-6\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\admcomparaciones.h
+	"Lista.h"
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\lista.h
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1403877436 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1403881414 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 26-6\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1403979774 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 27-6\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1404225129 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 29-6\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1404229922 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1404322696 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 1-7 v3\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1404394715 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 2-7 v1\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1404408631 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v1\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1404444655 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 3-7 v2\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
+1404447915 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v1\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1403892904 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\admarchivos.cpp
+	<cstdlib>
+	"AdmArchivos.h"
+	<string>
+	<fstream>
+	<sstream>
+	"Jugador.h"
+	"Equipo.h"
+	"Partido.h"
+	"Grupo.h"
+	"Lista.h"
+
+1403877064 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\admarchivos.h
+	"Lista.h"
+	<string>
+	<string.h>
+	<fstream>
+	<sstream>
+
+1307487078 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\lista.h
+
+1402062044 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\jugador.h
+	"Lista.h"
+	<iostream>
+	"string.h"
+	<string>
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\equipo.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<string>
+
+1403378186 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\admcomparaciones.h
+	"Lista.h"
+
+1402595110 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\partido.h
+	"Lista.h"
+	"AdmComparaciones.h"
+	<stdio.h>
+	<string>
+	"string.h"
+
+1402586496 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\grupo.h
+	"Lista.h"
+	"Equipo.h"
+	<string>
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\admcomparaciones.cpp
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+
+1402591460 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\partidosejecucion.h
+	"Cola.h"
+	"Partido.h"
+
+1401718310 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\cola.h
+
+1401718310 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\cola.cpp
+	"Cola.h"
+
+1403378186 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\equipo.cpp
+	"Equipo.h"
+	"string.h"
+
+1402502406 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\evento.cpp
+	"Evento.h"
+
+1402502260 c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\evento.h
+	"Lista.h"
+	"Jugador.h"
+	"Equipo.h"
+	<iostream>
+	<string>
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\grupo.cpp
+	"Grupo.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\jugador.cpp
+	"Jugador.h"
+	"string.h"
+
+1401633276 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\lista.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	"Lista.h"
+
+1404450416 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\main.cpp
+	<cstdlib>
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<iomanip>
+	"Lista.h"
+	"AdmArchivos.h"
+	"AdmComparaciones.h"
+	"Equipo.h"
+	"Jugador.h"
+	"Partido.h"
+	"Grupo.h"
+	"PartidosEjecucion.h"
+	"Evento.h"
+
+1402412402 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\partido.cpp
+	"Partido.h"
+	"string.h"
+
+1402591460 source:c:\users\ezequiel\documents\facultad\algoritmos y estructura de datos\mundial\proyectocuatrimestral-version final 4-7 v2\partidosejecucion.cpp
+	"PartidosEjecucion.h"
+
